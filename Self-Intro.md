@@ -3,11 +3,11 @@
 **Instructor: Kasey Zapatka**
 
 ***Zeyu Wu***  
-B.E. in Civil Engineering
+B.E. in Civil Engineering - Tongji
 
-M.S. in Development Engineering
+M.E. in Development Engineering (AI/Data Analytics) - UC Berkeley
 
-Blum Center for Developing Economies, UC Berkeley  
+Ph.D. in Systems Science and Theory (Urban Systems) - NYU Tandon
 
 **Concentration:** Data Analytics for Social Impact  
 **Interests:** Sustainable Urban Science, Human Mobility, Travel Behavior, Spatial Analytics, Complex Networks
