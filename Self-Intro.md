@@ -7,7 +7,7 @@ B.E. in Civil Engineering - Tongji
 
 M.E. in Development Engineering (AI/Data Analytics) - UC Berkeley
 
-Ph.D. in Systems Science and Theory (Urban Systems) - NYU Tandon
+Ph.D. in Systems Science and Theory (Urban Systems) - NYU
 
 **Concentration:** Data Analytics for Social Impact  
 **Interests:** Sustainable Urban Science, Human Mobility, Travel Behavior, Spatial Analytics, Complex Networks
